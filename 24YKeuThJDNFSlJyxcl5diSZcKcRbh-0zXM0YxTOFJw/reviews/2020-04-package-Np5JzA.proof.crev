@@ -839,3 +839,31 @@ comment: |-
 mgKLROvf1OLowjR_2GFrz7jgjp_FzoaCl_aPoBxe5w7Mwlyfpd0-0CuvZHVf9qPTzEFmRPxAElxlholZwaYBAQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2020-04-25T17:15:58.657907500+05:30"
+from:
+  id-type: crev
+  id: 24YKeuThJDNFSlJyxcl5diSZcKcRbh-0zXM0YxTOFJw
+  url: "https://github.com/LucianoBestia/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: ryu
+  version: 1.0.0
+  revision: a0e85ea2eafbc23989ecfac1139b098d26155aee
+  digest: JYz9J4AmEORzYE9Vscz0_mxZXOqFePccLpxNbbW9C3Q
+review:
+  thoroughness: none
+  understanding: low
+  rating: strong
+comment: |-
+  ryu is written by dtolnay.
+  I trust dtolnay for the basic library quote rust macros.
+  He is a prominent member of the rust-lang, serde-rs and rust nursery teams.
+  The crate comes from:
+  - https://github.com/dtolnay/quote  
+----- SIGN CREV PROOF -----
+tSXJSQXAIBXleVnetIpoLMWnoLzxoUYpa3xBKkL2XqNDPz6AcUNqEXVpy0xGfvxvkgvWBVt32xkeS4LIvToeBA
+----- END CREV PROOF -----
+
