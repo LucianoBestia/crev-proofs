@@ -178,3 +178,33 @@ comment: |-
 s5w1p6oQ5t2bFro3vJ625q8hL0GJspTtxGGGWc2MyXBQaJ0cXDkmO5uK5zvvzdsge01LvR5YRPICAiO446BYBQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2020-04-25T16:05:08.805060+05:30"
+from:
+  id-type: crev
+  id: 24YKeuThJDNFSlJyxcl5diSZcKcRbh-0zXM0YxTOFJw
+  url: "https://github.com/LucianoBestia/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: wasm-bindgen-backend
+  version: 0.2.60
+  digest: m-XSQyiqXVxg2OLVFgMyciD4XNM8l3bSLIDyR8iMRZU
+review:
+  thoroughness: none
+  understanding: low
+  rating: strong
+comment: |-
+  MUST TRUST !
+  wasm-bindgen-backend is the absolute basic core crate for rust + wasm. 
+  The crate comes from the 
+  - wasm-bindgen Developers,
+  - Rust and WebAssembly Working Group,
+  - rustwasm organization,
+  - https://github.com/rustwasm
+  - https://rustwasm.github.io  
+----- SIGN CREV PROOF -----
+IeDshiYY9CnRpTg3v5D3cY5P3eNepiDGLDPisRs6jb9zZ66JDAshoapH6Yu_H8S4_Z-gv2LgPp2LInnoIiGgDw
+----- END CREV PROOF -----
+
