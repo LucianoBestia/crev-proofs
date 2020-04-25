@@ -528,3 +528,31 @@ comment: |-
 wIMtE84VkdRiy6zFkz4TyT8aL8VJ_Y91yNrwSc3af0eCmkp4mzczQlefiOGliylgTI8mgUQXJ9AlsD4Ngg-2CA
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2020-04-25T16:44:35.620228700+05:30"
+from:
+  id-type: crev
+  id: 24YKeuThJDNFSlJyxcl5diSZcKcRbh-0zXM0YxTOFJw
+  url: "https://github.com/LucianoBestia/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: rand_hc
+  version: 0.2.0
+  revision: 5610bdae3acdb0324f5636bb3e4a21e6324ead72
+  digest: nKZXlEUIO_fWO1Fl5PfSb9HK9uDifIBjBsDhlq7w1zY
+review:
+  thoroughness: none
+  understanding: low
+  rating: strong
+comment: |-
+  rand is de facto standard random library for Rust.
+  The standard libraries are meant to be trusted.
+  It contains crates: rand_core, rand_hc, rand_chacha, rand_pcg and others.
+  The crate comes from:
+  - https://github.com/rust-random/rand  
+----- SIGN CREV PROOF -----
+NQFYvNot_OEUgNLIKVJBHb2SRlev6j_x7bIO8sALjRNHoyYvHkvJcn6xKkxgw0QF-pbe2EtuKW9ZUzpv_XT7Ag
+----- END CREV PROOF -----
+
