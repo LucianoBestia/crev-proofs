@@ -724,3 +724,33 @@ comment: |-
 P5cpZpBtATFs076HpQQEIx-koMIdGA-dzh6-MvLhr_DM8GesuWp6rw6p24Zfr4_fCZ9TPm5aTLx_S9wzZuC8Cw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2020-04-25T16:58:54.053045+05:30"
+from:
+  id-type: crev
+  id: 24YKeuThJDNFSlJyxcl5diSZcKcRbh-0zXM0YxTOFJw
+  url: "https://github.com/LucianoBestia/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: wasi
+  version: 0.9.0+wasi-snapshot-preview1
+  digest: a06mLD1kc0vZ5HWFMgMXgk41BIozs_8QGhfimDRcyno
+review:
+  thoroughness: none
+  understanding: low
+  rating: strong
+comment: |-
+  MUST TRUST !
+  wasi is the absolute basic core crate for rust + wasm. 
+  The crate comes from the 
+  - The Rust Project Developers,
+  - Rust and WebAssembly Working Group,
+  - rustwasm organization,
+  - https://github.com/rustwasm
+  - https://rustwasm.github.io  
+----- SIGN CREV PROOF -----
+MAsgRFqs9A4KG51sXkLXTNWwSByAStJxNy1eV4cXmrWp4tFC3kwbSKEwbO82FOOmh6M0RfIGz80b86oYL-EOAQ
+----- END CREV PROOF -----
+
