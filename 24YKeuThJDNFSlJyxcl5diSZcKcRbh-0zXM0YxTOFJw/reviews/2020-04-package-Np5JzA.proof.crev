@@ -1037,3 +1037,32 @@ comment: |-
 hDVf7pDYXeICfbN-G8Rs6VkB9zoRU52MPeAosoryBNP--4CWN7Sy78e6XJN3CVAyd3AAxY5xC4-_p-Bmr3tUAQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2020-04-25T17:39:17.167301300+05:30"
+from:
+  id-type: crev
+  id: 24YKeuThJDNFSlJyxcl5diSZcKcRbh-0zXM0YxTOFJw
+  url: "https://github.com/LucianoBestia/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: serde_derive
+  version: 1.0.101
+  revision: 4aba6fae78e8be5f9c52dc125c97054e5fbe54c7
+  digest: aS-NuOEOTlT3wYmp5-UwpO2yIK54i_f1zNxDbyqlt-0
+review:
+  thoroughness: none
+  understanding: low
+  rating: strong
+comment: |-
+  serde is de facto standard serialization library for Rust.
+  The standard libraries are meant to be trusted. 
+  dtolnay is a prominent member.
+  He is a prominent member of the rust-lang, serde-rs and rust nursery teams.
+  The crate comes from:
+  - https://github.com/serde-rs  
+----- SIGN CREV PROOF -----
+pueZx86YIPn_OA5_UylG0UdMB2-AVRdYIabY1aRRG0B87ppA232n7BfAuq-Q7T81NiR1ep56OituaHi7zCNkBQ
+----- END CREV PROOF -----
+
