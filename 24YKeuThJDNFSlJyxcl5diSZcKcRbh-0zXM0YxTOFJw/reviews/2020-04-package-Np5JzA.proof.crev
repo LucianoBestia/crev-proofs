@@ -88,3 +88,33 @@ comment: |-
 K_0ayhOYFc5wxM3azOl8HoS3IbGTa_1GCitvehWmbo_0Xh4pPaoPo0U-0YUiusTlto1z6XGaB3_CY8H1bvzEDg
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2020-04-25T15:55:56.679473700+05:30"
+from:
+  id-type: crev
+  id: 24YKeuThJDNFSlJyxcl5diSZcKcRbh-0zXM0YxTOFJw
+  url: "https://github.com/LucianoBestia/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: wasm-bindgen-futures
+  version: 0.4.10
+  digest: 1Ah2cnF7zAgr_oPg2zos0tD7QqkVzVTXxWilVoQYAn8
+review:
+  thoroughness: none
+  understanding: low
+  rating: strong
+comment: |-
+  MUST TRUST !
+  wasm-bindgen-futures is the absolute basic core crate for rust + wasm. 
+  The crate comes from the 
+  - wasm-bindgen Developers,
+  - Rust and WebAssembly Working Group,
+  - rustwasm organization,
+  - https://github.com/rustwasm
+  - https://rustwasm.github.io  
+----- SIGN CREV PROOF -----
+h9tf96VJcx5VsGBLHJE1ojXwx4jssFFggWZEDd6FU6vCU2s5En2ix-3MPPOfYEgV_G5jOx9_WK0-ST4bxC-cAA
+----- END CREV PROOF -----
+
