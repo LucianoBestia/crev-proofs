@@ -1147,3 +1147,29 @@ comment: |-
 ywAy5E4gUiM2URQw93TRA__VA__H1eYDDhDTR60Tn6mD57Ljx-N09D0kX28QKbTesYVGbERoaJGmpUFWBni7CQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2020-04-25T18:26:13.994977700+05:30"
+from:
+  id-type: crev
+  id: 24YKeuThJDNFSlJyxcl5diSZcKcRbh-0zXM0YxTOFJw
+  url: "https://github.com/LucianoBestia/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: atty
+  version: 0.2.14
+  revision: 7b5df17888997d57c2c1c8f91da1db5691f49953
+  digest: WJaqS5xu6ORo2px2Rku1ynYYN4TuCdxeS8LR68ngyw4
+review:
+  thoroughness: medium
+  understanding: medium
+  rating: strong
+comment: |-
+  atty is a micro.crate with little code and no dependency.
+  The code looks fine to me.
+  I trust it.  
+----- SIGN CREV PROOF -----
+_YHtnVQ3Sjt45HZJQG5FA7SFlxfvaMDTj5Nd5FHdFzRzV5acmC8Q8OZH-xpxpEm6h0zUKwYBUSDFAAnNBrR8AA
+----- END CREV PROOF -----
+
