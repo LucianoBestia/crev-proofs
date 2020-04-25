@@ -353,3 +353,34 @@ comment: |-
 ImKOIMddc_XDIGgllLB5Fr1TlLTDCXhGDx4jLXeACvx_roj0hTWUmir5R7nrzz9O-KnnjIlTWXZ5NzLpgbVwBA
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2020-04-25T16:22:50.207733700+05:30"
+from:
+  id-type: crev
+  id: 24YKeuThJDNFSlJyxcl5diSZcKcRbh-0zXM0YxTOFJw
+  url: "https://github.com/LucianoBestia/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: console_error_panic_hook
+  version: 0.1.6
+  revision: 52f6501678e8cc4fcf5309e7814bb90f800c3fef
+  digest: DLet7EtUZ6IpD5zg-uAv6bk7Yszo1MDc02PdFW6Qpjs
+review:
+  thoroughness: none
+  understanding: low
+  rating: strong
+comment: |-
+  MUST TRUST !
+  console_error_panic_hook is the absolute basic core crate for rust + wasm. 
+  The crate comes from the 
+  - The Rust Project Developers,
+  - Rust and WebAssembly Working Group,
+  - rustwasm organization,
+  - https://github.com/rustwasm
+  - https://rustwasm.github.io  
+----- SIGN CREV PROOF -----
+BRX3Uch1cKQyqyr9yaGNFDhZRXIdsZpLZWtkNtEZpN6hCSMppg8sYFqBzD2SZXaptGCUQTN-8i4ivM_N95OoAA
+----- END CREV PROOF -----
+
