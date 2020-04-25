@@ -895,3 +895,32 @@ comment: |-
 rrpfwitGhnBVzjafqUk3zlMR2S0YkHR3eRc1_pOITC-bH_gvfSIo3F2i9t5DrDwHwk-j1ni5k5p5c6oHUS3sDA
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2020-04-25T17:18:07.936439600+05:30"
+from:
+  id-type: crev
+  id: 24YKeuThJDNFSlJyxcl5diSZcKcRbh-0zXM0YxTOFJw
+  url: "https://github.com/LucianoBestia/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: unicode-width
+  version: 0.1.6
+  revision: 3a222d1dd192a4cb7877ba88f8bb317d8628bc1b
+  digest: AR-zt7asV8hdtfsGaFiVjRnjVUv8ClV2HrSO6ujRpIY
+review:
+  thoroughness: none
+  understanding: low
+  rating: strong
+comment: |-
+  unicode-width is part of the unicode-rs.github.io.
+  I suppose, this is a very low and basic library for rust.
+  One member is Manishearth, that works on servo at mozilla and the rustlang core team.
+  And I suppose I have to trust it.
+  The crate comes from:
+  - https://github.com/unicode-rs  
+----- SIGN CREV PROOF -----
+IaGHX4zp8mbC4mfR_Kq4TzeFkhpFQbmwbNe6F13ayv0zkkYGrWhIzgUXOBUdH7rzyybGVEV_qlIS7QKOUwfsBw
+----- END CREV PROOF -----
+
