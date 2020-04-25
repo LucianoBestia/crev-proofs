@@ -1199,3 +1199,30 @@ comment: |-
 48ksys8xVUaxRjD4T8nJxgCy_sh8DNp56jD9tVLufMZhE_ecv4RSxGd01h8KhMlxZ-Qu27d7-xtgnZaWqVmACA
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2020-04-25T18:50:46.512700800+05:30"
+from:
+  id-type: crev
+  id: 24YKeuThJDNFSlJyxcl5diSZcKcRbh-0zXM0YxTOFJw
+  url: "https://github.com/LucianoBestia/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: memchr
+  version: 2.3.3
+  revision: 378bb1caecac7079b867fa6e6059c0d8ea244e03
+  digest: DGhhH0ACuSqM1AhnJu-RxhF4uwZRvF-sm62AXQBMG_U
+review:
+  thoroughness: none
+  understanding: low
+  rating: strong
+comment: |-
+  memchr is written by BurntSushi.
+  He is a prominent member of rust-lang and rust nursery teams and more.
+  The crate comes from:
+  - https://github.com/burntsushi  
+----- SIGN CREV PROOF -----
+_LhAJE2W8RAj9WChbkK7MEzA28Wkwhedr9yKrstunIkpTwNu4X_NNFi7JEyxX9Tu3ubKz6CaVtZJsx-PES0sDQ
+----- END CREV PROOF -----
+
