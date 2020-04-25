@@ -1173,3 +1173,29 @@ comment: |-
 _YHtnVQ3Sjt45HZJQG5FA7SFlxfvaMDTj5Nd5FHdFzRzV5acmC8Q8OZH-xpxpEm6h0zUKwYBUSDFAAnNBrR8AA
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2020-04-25T18:34:40.119646800+05:30"
+from:
+  id-type: crev
+  id: 24YKeuThJDNFSlJyxcl5diSZcKcRbh-0zXM0YxTOFJw
+  url: "https://github.com/LucianoBestia/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: bitflags
+  version: 1.2.1
+  revision: 30668016aca6bd3b02c766e8347e0b4080d4c296
+  digest: hBS4g5BS-KTQA2baui1uKXks2SuPnFM1dqdCnmPLxNI
+review:
+  thoroughness: medium
+  understanding: low
+  rating: positive
+comment: |-
+  bitflags code is a big macro. no dependency.
+  It looks basic and low. It has a lot of contributors.
+  So I guess I have to trust them.  
+----- SIGN CREV PROOF -----
+48ksys8xVUaxRjD4T8nJxgCy_sh8DNp56jD9tVLufMZhE_ecv4RSxGd01h8KhMlxZ-Qu27d7-xtgnZaWqVmACA
+----- END CREV PROOF -----
+
