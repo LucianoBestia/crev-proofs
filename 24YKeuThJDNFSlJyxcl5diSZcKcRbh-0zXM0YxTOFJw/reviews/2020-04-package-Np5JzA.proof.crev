@@ -782,3 +782,31 @@ comment: |-
 4WfgbfWM5cLS19Dt3uI5yYIiaDuxWknqP2wtfEuWD2n04Kn7Ofwr4zzkkH4dJDLWU21cY8S_gWfNaLUZpSGIDw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2020-04-25T17:01:31.241887200+05:30"
+from:
+  id-type: crev
+  id: 24YKeuThJDNFSlJyxcl5diSZcKcRbh-0zXM0YxTOFJw
+  url: "https://github.com/LucianoBestia/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: syn
+  version: 1.0.17
+  revision: 41043311ca07560a41b8063bed3e7f806826169f
+  digest: xDgtAHprQzoSBwMnuNk6rJraQWqZYIa1-Qid-Rrqfak
+review:
+  thoroughness: none
+  understanding: low
+  rating: strong
+comment: |-
+  itoa is written by dtolnay.
+  I trust dtolnay for the basic library quote rust macros.
+  He is a prominent member of the rust-lang, serde-rs and rust nursery teams.
+  The crate comes from:
+  - https://github.com/dtolnay  
+----- SIGN CREV PROOF -----
+yGTvjRaDYaywx9DfUmzj4BKxU0VcofiNok7AHwsFi-XQMSar3rFd2R1ryJ0V0PWkgRwvsBKTidoSDUSNosF6CQ
+----- END CREV PROOF -----
+
