@@ -982,3 +982,31 @@ comment: |-
 pq0X8_Uh_tNlPbrjCU7_RbZ1bFbOiBtF65GTfLH3Sk1wJ7YsioAIYaqorKYmzJmtz9x-DlIMW98-nPlvQo9JCQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2020-04-25T17:29:57.757264300+05:30"
+from:
+  id-type: crev
+  id: 24YKeuThJDNFSlJyxcl5diSZcKcRbh-0zXM0YxTOFJw
+  url: "https://github.com/LucianoBestia/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: proc-macro2
+  version: 1.0.4
+  revision: bdac3732544a3cfb73afe4548f550c369e906856
+  digest: zFtpVy7repprIZyzC6zexab7VZw6SMOrRvOtbx5fXT4
+review:
+  thoroughness: none
+  understanding: low
+  rating: strong
+comment: |-
+  proc-macro2 is written by alexcrichton.
+  I trust alexcrichton for the basic libraries for rust.
+  He is a prominent member of rust-lang and rust nursery teams and more.
+  The crate comes from:
+  - https://github.com/alexcrichton    
+----- SIGN CREV PROOF -----
+ifntLIIqYTCDR4poPNMqeP9ttyvlzwRJIn2fMDD767sTTdjBZmE-dSSEYtjTIcfM93O6I2CVJ3qBvuTn_IhODQ
+----- END CREV PROOF -----
+
