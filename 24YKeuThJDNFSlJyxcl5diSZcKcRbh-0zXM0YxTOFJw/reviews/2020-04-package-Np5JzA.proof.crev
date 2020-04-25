@@ -668,3 +668,31 @@ comment: |-
 DNUl5yFEx7gAmdkBYf_oM3f16INHNj_ggKpmKD2QDBC8l9EZBPos5AquuqWwOK-i13eOuZWDfWyHXkn-BiXQBA
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2020-04-25T16:52:55.879284400+05:30"
+from:
+  id-type: crev
+  id: 24YKeuThJDNFSlJyxcl5diSZcKcRbh-0zXM0YxTOFJw
+  url: "https://github.com/LucianoBestia/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: scoped-tls
+  version: 1.0.0
+  revision: 52df1890cab1f8ff07c17ddf7bd4a18c706c5f41
+  digest: kETqqoXcUdw7ZgJGOf8bDapX_PwhQg-GirxU0byVSlM
+review:
+  thoroughness: none
+  understanding: low
+  rating: strong
+comment: |-
+  scoped-tls is written by alexcrichton.
+  I trust alexcrichton for the basic libraries for rust.
+  He is a prominent member of rust-lang and rust nursery teams and more.
+  The crate comes from:
+  - https://github.com/alexcrichton  
+----- SIGN CREV PROOF -----
+iDDmhSH8zdfQmKxSbwvI_-EuVTHLHU0R51fRqr-_48v5X76EeBbuMXVs9MXMyheX-q1BsZhhTk67L1TZYxspDw
+----- END CREV PROOF -----
+
