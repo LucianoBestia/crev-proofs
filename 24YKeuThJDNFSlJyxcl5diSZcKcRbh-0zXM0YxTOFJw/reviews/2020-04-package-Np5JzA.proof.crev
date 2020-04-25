@@ -28,3 +28,33 @@ comment: |-
 rzytloGQtTqjiAEwjMLzuaz6tfRualBi77m_i8WB-10BaDUQt2j4da_WuYDoYQq1Ah_p09HzT3JfLw9jwyDECQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2020-04-25T15:50:40.398006400+05:30"
+from:
+  id-type: crev
+  id: 24YKeuThJDNFSlJyxcl5diSZcKcRbh-0zXM0YxTOFJw
+  url: "https://github.com/LucianoBestia/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: web-sys
+  version: 0.3.37
+  digest: N-oRi1smRnS24uwTeT7uj_XWcbRmEw9r1T9PXbMhxMc
+review:
+  thoroughness: none
+  understanding: low
+  rating: strong
+comment: |-
+  MUST TRUST !
+  web-sys is the absolute basic core crate for rust + wasm. 
+  The crate comes from the 
+  - wasm-bindgen Developers,
+  - Rust and WebAssembly Working Group,
+  - rustwasm organization,
+  - https://github.com/rustwasm
+  - https://rustwasm.github.io  
+----- SIGN CREV PROOF -----
+XbeKsCnhLqQ75siKP8sLLhxuuZG8N2RhEGgU41lcRLDDZ5PkJOup9AdWC-O3iZDDhxiHxOILBR2RMl7opGQuAQ
+----- END CREV PROOF -----
+
