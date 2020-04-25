@@ -1092,3 +1092,31 @@ comment: |-
 DUPiXsQfY4ycLFb2J9YiTdXiNG8hd1pUpZon8f-8_V92QKgP_dD2Yx0QPR1p9yUB2uAERoMHUY47KzFfOMCNAg
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2020-04-25T18:01:16.178684400+05:30"
+from:
+  id-type: crev
+  id: 24YKeuThJDNFSlJyxcl5diSZcKcRbh-0zXM0YxTOFJw
+  url: "https://github.com/LucianoBestia/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: clap
+  version: 2.33.0
+  revision: 784524f7eb193e35f81082cc69454c8c21b948f7
+  digest: 7e3jhB9bWfNqdmpieiL19i5IygjxxCsmHa085YTObFo
+review:
+  thoroughness: none
+  understanding: low
+  rating: strong
+comment: |-
+  clap is de facto standard CLI library for Rust.
+  The standard libraries are meant to be trusted.
+  The crate comes from:
+  - https://github.com/clap-rs
+    
+----- SIGN CREV PROOF -----
+Lbt35Zj9ZzG08OmyrHUIIPBWbcOTvFK4AqXcQ65r16AEZO6ajwI7kLdjTqNR9fGPL75a3hCB6WhZ6cxZPy9kDg
+----- END CREV PROOF -----
+
