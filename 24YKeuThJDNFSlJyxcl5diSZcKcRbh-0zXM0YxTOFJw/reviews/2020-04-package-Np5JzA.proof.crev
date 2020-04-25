@@ -810,3 +810,32 @@ comment: |-
 yGTvjRaDYaywx9DfUmzj4BKxU0VcofiNok7AHwsFi-XQMSar3rFd2R1ryJ0V0PWkgRwvsBKTidoSDUSNosF6CQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2020-04-25T17:09:39.246933800+05:30"
+from:
+  id-type: crev
+  id: 24YKeuThJDNFSlJyxcl5diSZcKcRbh-0zXM0YxTOFJw
+  url: "https://github.com/LucianoBestia/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: unicode-xid
+  version: 0.2.0
+  revision: 4baae9fffb156ba229665b972a9cd5991787ceb7
+  digest: SJ8HWxYhXSgqQvjlkE6_nbzp3BZEltf8tv9L8Uw22Z8
+review:
+  thoroughness: none
+  understanding: low
+  rating: strong
+comment: |-
+  unicode-xid is part of the unicode-rs.github.io.
+  I suppose, this is a very low and basic library for rust.
+  One member is Manishearth, that works on servo at mozilla and the rustlang core team.
+  And I suppose I have to trust it.
+  The crate comes from:
+  - https://github.com/unicode-rs  
+----- SIGN CREV PROOF -----
+mgKLROvf1OLowjR_2GFrz7jgjp_FzoaCl_aPoBxe5w7Mwlyfpd0-0CuvZHVf9qPTzEFmRPxAElxlholZwaYBAQ
+----- END CREV PROOF -----
+
