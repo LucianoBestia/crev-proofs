@@ -1309,3 +1309,30 @@ comment: |-
 ddEYlWVXuNxcYRDUCT4z7MBau91hVjKP12xm9E8z1YzPPWr6_PFC9mDauZODlCsgR-7pJzZhJnsZenUbmZSYAQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2020-04-25T19:01:09.276740500+05:30"
+from:
+  id-type: crev
+  id: 24YKeuThJDNFSlJyxcl5diSZcKcRbh-0zXM0YxTOFJw
+  url: "https://github.com/LucianoBestia/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: aho-corasick
+  version: 0.7.10
+  revision: 36de9d383aeaf925c7425ed53eee91e61cb9b61c
+  digest: hM39Xsz7lcPUAdVv7uWW5tTcS9PeHnJN2i9hF1uNr1o
+review:
+  thoroughness: none
+  understanding: low
+  rating: strong
+comment: |-
+  aho-corasick is written by BurntSushi.
+  He is a prominent member of rust-lang and rust nursery teams and more.
+  The crate comes from:
+  - https://github.com/burntsushi    
+----- SIGN CREV PROOF -----
+mW1yG5-ZOI6o3-Coze1Zj7rmGiPnrsuOAQlW0BDodDaaukL10QgKU0pA-rHIG_QEu50BmbWA0rzqSOt4jkT9DQ
+----- END CREV PROOF -----
+
