@@ -1336,3 +1336,28 @@ comment: |-
 mW1yG5-ZOI6o3-Coze1Zj7rmGiPnrsuOAQlW0BDodDaaukL10QgKU0pA-rHIG_QEu50BmbWA0rzqSOt4jkT9DQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2020-04-26T10:23:16.002179400+05:30"
+from:
+  id-type: crev
+  id: 24YKeuThJDNFSlJyxcl5diSZcKcRbh-0zXM0YxTOFJw
+  url: "https://github.com/LucianoBestia/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: rust_wasm_websys_utils
+  version: 0.4.3
+  revision: 1334c344d592e82960acb47c86f2125e1716e5d9
+  digest: efVrUZ0Z2crJfPmnxoxp1WLoBjTfOHTjNgsIsW2Lzw4
+review:
+  thoroughness: high
+  understanding: high
+  rating: strong
+comment: |-
+  I am the author of this crate.
+  I trust it. 
+----- SIGN CREV PROOF -----
+U5uJ-6PL63MaBsykF_pE5YvZBkda24ZtF2O-twDXJ8Cr8C5jjmx8zNg3fT-3uascO4vo0dw0mmytkYziyVkGCA
+----- END CREV PROOF -----
+
