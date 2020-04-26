@@ -1361,3 +1361,33 @@ comment: |-
 U5uJ-6PL63MaBsykF_pE5YvZBkda24ZtF2O-twDXJ8Cr8C5jjmx8zNg3fT-3uascO4vo0dw0mmytkYziyVkGCA
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2020-04-26T10:28:10.132946600+05:30"
+from:
+  id-type: crev
+  id: 24YKeuThJDNFSlJyxcl5diSZcKcRbh-0zXM0YxTOFJw
+  url: "https://github.com/LucianoBestia/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: bumpalo
+  version: 2.6.0
+  revision: 53a8021e6d5c8b24bb1b785323b5e559f406a13f
+  digest: 0UsDAsj9sh5kc707fmuQVifEf9bF_DOT_2MfxrJIWkU
+review:
+  thoroughness: none
+  understanding: low
+  rating: strong
+comment: |-
+  Bumpalo and dodrio are written by fitzgen.
+  I trust fitzgen for the basic libraries bumpalo and dodrio for rust + wasm.
+  He is a member of the official wasm working group for rust at mozilla.
+  The crate comes from:
+  - https://www.rust-lang.org/governance/wgs/wasm
+  - https://fitzgeraldnick.com/
+  - https://github.com/fitzgen   
+----- SIGN CREV PROOF -----
+6r8cOA5tSIg6WdEulcSDerUJIBAhs53Ek0fF4jqwSqfi63GUzplubBYqyinxN29PiXtWoDWQYk_n0q4KCLNwCA
+----- END CREV PROOF -----
+
