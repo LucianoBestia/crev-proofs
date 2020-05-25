@@ -66,3 +66,20 @@ trust: medium
 3bGEbjI5FN4E2CEYLZchE0g4G51V43ZqOOh9yPSlRqoRjGFQQ_nSnTgNcTrtnN7kjXQHmJ0mmlVjQ3t3zko2AA
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: trust
+version: -1
+date: "2020-05-25T14:20:51.037291+05:30"
+from:
+  id-type: crev
+  id: 24YKeuThJDNFSlJyxcl5diSZcKcRbh-0zXM0YxTOFJw
+  url: "https://github.com/LucianoBestia/crev-proofs"
+ids:
+  - id-type: crev
+    id: 1SnqOpTMHMwbP4vRBqdiMcIMecoRL0TX_zQ3HrTDs_w
+    url: "https://github.com/IslandUsurper/crev-proofs"
+trust: medium
+----- SIGN CREV PROOF -----
+JhdMm7XowAKVG0jW94Vq5_05jNit3XiGnagtelmH9i-UKD7zfhF-YLoAmdNlQo9bzEA85GMMOD_DD_XLQHi1Bw
+----- END CREV PROOF -----
+
