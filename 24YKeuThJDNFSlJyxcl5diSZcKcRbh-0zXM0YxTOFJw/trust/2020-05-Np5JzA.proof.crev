@@ -100,3 +100,20 @@ trust: medium
 bPA-_1vagT9ZCjbIrj1xE240OpOmY890LqF9AO9fYIxvCH5iuigIPiY86AKkvLJKkqsHxRrpNhykOpbbdWqXDA
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: trust
+version: -1
+date: "2020-05-27T19:06:15.052601800+05:30"
+from:
+  id-type: crev
+  id: 24YKeuThJDNFSlJyxcl5diSZcKcRbh-0zXM0YxTOFJw
+  url: "https://github.com/LucianoBestia/crev-proofs"
+ids:
+  - id-type: crev
+    id: W-RXYmWCrsXJWinxMMdjCjR9ywGlH9srvMi0cmYL2rI
+    url: "https://gitlab.com/chrysn/auto-crev-proofs"
+trust: none
+----- SIGN CREV PROOF -----
+nbh-ppFzbqHLtm8J_VGIwQNABmE41yB5zAnCyQZ0ir5p_HriBzLeYBqfP8mDe-Nd7deVMz9Hag4OdFBXknbdBQ
+----- END CREV PROOF -----
+
