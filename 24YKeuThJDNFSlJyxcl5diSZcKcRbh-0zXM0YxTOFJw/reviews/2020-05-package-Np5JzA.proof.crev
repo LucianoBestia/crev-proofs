@@ -1,0 +1,27 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2020-05-30T16:36:32.671591400+05:30"
+from:
+  id-type: crev
+  id: 24YKeuThJDNFSlJyxcl5diSZcKcRbh-0zXM0YxTOFJw
+  url: "https://github.com/LucianoBestia/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: reader_for_microxml
+  version: 1.1.6
+  revision: 5ef7cf606ad2750ce161fe2169292f72fb68951e
+  digest: 6elNzbmnpggOy0wSbogvaqMFbWq6ZqbG6NTKLrzinNs
+review:
+  thoroughness: high
+  understanding: high
+  rating: strong
+comment: |-
+  I am the author of reader_for_microxml.
+  It is no_std, has NO dependency, NO allocation, NO unsafe
+  Super simple and fast reader/tokenizer.
+  I think it can be trusted. 
+----- SIGN CREV PROOF -----
+sgtS4pKNHHIohgjJ1Jq-tB-zpPdnLVCh5Gq8tHuWYsnfCqeZe_B5lu-U6r5IH99AD2wPCB2-Ecv27_wSK7LvBA
+----- END CREV PROOF -----
+
