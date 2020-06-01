@@ -8,7 +8,7 @@ This git repository is a [Crev Proof Repository](https://github.com/dpc/crev/wik
 2020-06-02 Luciano Bestia
 
 cargo-crev is a cryptographically verifiable code review system for the cargo (Rust) package manager:\
-https://github.com/crev-dev/cargo-crev\
+<https://github.com/crev-dev/cargo-crev>  
 Always learning something new.\
 A Web of Trust is an interesting idea.\
 Humans work like this.\
