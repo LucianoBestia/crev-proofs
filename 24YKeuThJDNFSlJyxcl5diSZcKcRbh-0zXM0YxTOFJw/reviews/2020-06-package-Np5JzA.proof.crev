@@ -28,3 +28,33 @@ comment: |-
 DMOrPZuWTTU4wQS2LIPibGjZ5TBt32lmt4d17PsKHEVQiaSLBXme8GJxAp3erj1dN3w94_Qe9n014Cfpaci-Aw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2020-06-04T17:49:55.845665600+05:30"
+from:
+  id-type: crev
+  id: 24YKeuThJDNFSlJyxcl5diSZcKcRbh-0zXM0YxTOFJw
+  url: "https://github.com/LucianoBestia/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: reader_for_microxml
+  version: 1.1.10
+  revision: 433027c0f099798b27636d566a2cf7275bdcc162
+  digest: YgrHIIGmvah-jfobrAXZ_pltrN3vie561nXt6CUlWfA
+review:
+  thoroughness: high
+  understanding: high
+  rating: strong
+comment: |-
+  I am the author of reader_for_microxml.
+  It is no_std, has NO dependency, NO allocation, NO unsafe
+  Super simple and fast reader/tokenizer.
+  I think it can be trusted.
+  
+  Possible improvements:
+  It can be faster if using [u8] instead of String. 
+----- SIGN CREV PROOF -----
+AV6Bbh7-3mgzJr6-G8Q1eHSE8fwhW741Ilt0oDDUx-nhf7ebM-5YfbtwbMjuB2DjF6UjbYvwQ4BpF2-6xZLWAg
+----- END CREV PROOF -----
+
