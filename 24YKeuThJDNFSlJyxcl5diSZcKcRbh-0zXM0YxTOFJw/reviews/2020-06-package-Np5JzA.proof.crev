@@ -204,3 +204,32 @@ comment: |-
 KErClsYEZNZkwsPLYCT6MttUhFwB4IDMtXA4FceBJxKuKSLrZyE8zsCGgi8zKKjwuhSykHeoZC04H_Y7XWWIAQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2020-06-11T12:24:54.102992200+05:30"
+from:
+  id-type: crev
+  id: 24YKeuThJDNFSlJyxcl5diSZcKcRbh-0zXM0YxTOFJw
+  url: "https://github.com/LucianoBestia/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: codetour_export_to_md
+  version: 2020.605.1303
+  revision: 265073636d9ad5f9d6bfab75644ed6479924e8b7
+  digest: 9GTBmCLACfYZ7NmrsaMrnDfH9_nUKnM6USvhteGZlbQ
+review:
+  thoroughness: high
+  understanding: high
+  rating: strong
+comment: |-
+  I am the author of codetour_export_to_md.
+  It is a binary for use in development time.
+  It reads readonly all the .tour and some .rs files from the Rust project folder.
+  It creates one .md file per .tour file.
+  
+  I think it can be trusted.
+----- SIGN CREV PROOF -----
+hmuCG8UM_vEX-UWpJxOxBMKaM9-zYmWpf8JpIIVpycQEgIv0MM7815iZm_C-Y9eyPsB1V7-DAXrZH3gkSP3IDw
+----- END CREV PROOF -----
+
