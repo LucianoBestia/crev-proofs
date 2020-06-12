@@ -233,3 +233,32 @@ comment: |-
 hmuCG8UM_vEX-UWpJxOxBMKaM9-zYmWpf8JpIIVpycQEgIv0MM7815iZm_C-Y9eyPsB1V7-DAXrZH3gkSP3IDw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2020-06-12T21:07:33.233684800+05:30"
+from:
+  id-type: crev
+  id: 24YKeuThJDNFSlJyxcl5diSZcKcRbh-0zXM0YxTOFJw
+  url: "https://github.com/LucianoBestia/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: lmake_lines_of_code
+  version: 2020.607.1321
+  revision: 3a799284c9f0e7c271ddd42973754b0add9c2f66
+  digest: Vv6Vpo2mGrBzdEo2GOlxUarXDCN_EojEfS6pXjm4fK4
+review:
+  thoroughness: high
+  understanding: high
+  rating: strong
+comment: |-
+  I am the author of lmake_lines_of_code.
+  It reads only all the *.rs files.
+  The result is markdown to copy/paste into readme.md.
+  And returns to standard output in this version.
+  
+  I think it can be trusted.
+----- SIGN CREV PROOF -----
+PmrPKCtkhpnBJvArbBdfx9fSR4BbhlYPYAENqNZ67tawD9ohfONBnLUjtHuMWY81SjTs4dsycFXthyrO9CriAQ
+----- END CREV PROOF -----
+
