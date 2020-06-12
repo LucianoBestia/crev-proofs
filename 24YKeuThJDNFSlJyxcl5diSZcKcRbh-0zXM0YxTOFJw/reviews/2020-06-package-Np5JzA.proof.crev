@@ -349,3 +349,32 @@ comment: |-
 0Js_CSRgbbFCPIWMmOoFUVeHTq5820CJlcGPToYLW0dUNlPEyhrL7MpwIDylnUGvxRFnHJDYD2F8ssPoOjo7Dg
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2020-06-12T21:17:28.975370600+05:30"
+from:
+  id-type: crev
+  id: 24YKeuThJDNFSlJyxcl5diSZcKcRbh-0zXM0YxTOFJw
+  url: "https://github.com/LucianoBestia/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: lmake_readme
+  version: 0.4.0
+  revision: ea222a74c5178ab5843eb673e80fcc99219221df
+  digest: X0wxI88vBoCXfF8I5xQUYjtPmFUQcT_-vQWyF02UgVQ
+review:
+  thoroughness: high
+  understanding: high
+  rating: strong
+comment: |-
+  I am the author of lmake_readme.
+  It reads cargo.toml, readme.md.
+  Writes into readme.md, main.rs or lib.rs or other .rs files with included placeholders.
+  
+  
+  I think it can be trusted.
+----- SIGN CREV PROOF -----
+QGjzYG27CinGOEkuI_41idSNzkmUg_4we8XLYu0ichwUiQENlsA2DGcSmKUqS4I1QwZcgZckIzSyGXji3G2vDw
+----- END CREV PROOF -----
+
