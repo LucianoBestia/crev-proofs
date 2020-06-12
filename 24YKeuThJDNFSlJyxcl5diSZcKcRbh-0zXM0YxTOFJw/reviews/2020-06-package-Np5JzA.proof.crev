@@ -406,3 +406,31 @@ comment: |-
 iG13IYE83TS0ra4oj6xswLMkIlE6w2T7uOBVnyFT-JLNy0FAFk6Sb2U5s66P1G2f_v6ZMGyQsAL-WYD5ZBKnCg
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2020-06-12T21:25:09.669245100+05:30"
+from:
+  id-type: crev
+  id: 24YKeuThJDNFSlJyxcl5diSZcKcRbh-0zXM0YxTOFJw
+  url: "https://github.com/LucianoBestia/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: lmake_semver
+  version: 0.1.1
+  revision: 3b0cb8987ab6f2a354b409fd5f77914494134e81
+  digest: 6xKudEhEb5FfK-kXhHpUS4PJgp-9cy9_Wfjz2Z_bTUI
+review:
+  thoroughness: high
+  understanding: high
+  rating: strong
+comment: |-
+  I am the author of lmake_semver.
+  It reads and writes to cargo.toml. 
+  It increases the semver version number.
+  
+  I think it can be trusted.
+----- SIGN CREV PROOF -----
+YqP3NeXVukZvOCxwUTUtx1u-M7-PHpu6CLA84k4AznzMhCWVm7lrfFVVH3axGD6vBfh1nPALZMJEuzWh9I7GAg
+----- END CREV PROOF -----
+
