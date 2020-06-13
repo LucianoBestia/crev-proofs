@@ -576,3 +576,31 @@ comment: |-
 WFEDdRoTxDVhHbhH71R64swSEeDzTobNSn5GAjMVK7LPN4LH_yK58Qj6_9YqrYo1DtjhBolGLLVG7cFA0kdHBw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2020-06-13T22:56:04.622012400+05:30"
+from:
+  id-type: crev
+  id: 24YKeuThJDNFSlJyxcl5diSZcKcRbh-0zXM0YxTOFJw
+  url: "https://github.com/LucianoBestia/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: rust_wasm_websys_utils
+  version: 0.4.2
+  revision: ebca29318bea1c11b492c86c1a01d6732dd871f1
+  digest: kQFlP0KlxTg8jgXgLGGNIje_HkSxvxVqR-ED1m4qDf4
+review:
+  thoroughness: high
+  understanding: high
+  rating: strong
+comment: |-
+  I am the author of rust_wasm_websys_utils.
+  It works in wasm. That is safe.
+  These are small functions, that help coding in wasm.
+  
+  I think it can be trusted.
+----- SIGN CREV PROOF -----
+sc-8iwOqx78lgj92300Q4n9imY8rO-TxD0byf5AjSc0oZn9wrmMoU4_gL9x4EyH8j0COs1xsmx4kbRRvS2HqDg
+----- END CREV PROOF -----
+
