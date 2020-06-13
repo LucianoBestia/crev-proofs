@@ -549,3 +549,30 @@ comment: |-
 -GHIZAfYZ_lnpt23XOxxlSwcnawPt51BCoSt8dm8gBKGcu2F2snLwO1pgwMxq3m51G3Hw6kW3t9I_zoYt9buDw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2020-06-13T22:53:00.783112800+05:30"
+from:
+  id-type: crev
+  id: 24YKeuThJDNFSlJyxcl5diSZcKcRbh-0zXM0YxTOFJw
+  url: "https://github.com/LucianoBestia/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: rust_wasm_dodrio_router
+  version: 0.4.6
+  revision: cf092e66d77ea640ca7fe3ade2f22e2dde44cd4c
+  digest: l7i9aesvY-Xj2imPOs-gktNrQxxG_-jnZ32XGyjO5Z0
+review:
+  thoroughness: high
+  understanding: high
+  rating: strong
+comment: |-
+  I am the author of rust_wasm_dodrio_router.
+  It works in wasm. That should be safe.
+  
+  I think it can be trusted.
+----- SIGN CREV PROOF -----
+WFEDdRoTxDVhHbhH71R64swSEeDzTobNSn5GAjMVK7LPN4LH_yK58Qj6_9YqrYo1DtjhBolGLLVG7cFA0kdHBw
+----- END CREV PROOF -----
+
