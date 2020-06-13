@@ -522,3 +522,30 @@ comment: |-
 NhpJoIdWfQbUEkwuo2OvK-FTYERQEgI1VPX6UNaEWdhk3h-I2DbqBZx8QzcnfGjhzKGkRLjv6Fq7Vw3ZWl9ACg
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2020-06-13T22:49:07.407165500+05:30"
+from:
+  id-type: crev
+  id: 24YKeuThJDNFSlJyxcl5diSZcKcRbh-0zXM0YxTOFJw
+  url: "https://github.com/LucianoBestia/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: qrcode53bytes
+  version: 1.0.0
+  revision: 1059de449ff0fb348f1d09ece7368f876d824477
+  digest: qzaEvs3008DTAzMhMLYmTVOjmeRi3ET3HgvNVvY7-HU
+review:
+  thoroughness: high
+  understanding: high
+  rating: strong
+comment: |-
+  I am the author of qrcode53bytes.
+  Works in wasm.
+  That should be safe.
+  I think it can be trusted.
+----- SIGN CREV PROOF -----
+-GHIZAfYZ_lnpt23XOxxlSwcnawPt51BCoSt8dm8gBKGcu2F2snLwO1pgwMxq3m51G3Hw6kW3t9I_zoYt9buDw
+----- END CREV PROOF -----
+
