@@ -490,3 +490,35 @@ comment: |-
 ldPzhMwb7xMqk1Goyy_YQ9nYB38rSLeMXhRRalVoSQrpCUng3Jb56ztb48_Dg6C5BAKU4jTFjAD0BH0yVF2aDQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2020-06-13T19:27:02.250632600+05:30"
+from:
+  id-type: crev
+  id: 24YKeuThJDNFSlJyxcl5diSZcKcRbh-0zXM0YxTOFJw
+  url: "https://github.com/LucianoBestia/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: lmake_lines_of_code
+  version: 2020.613.1337
+  revision: 987eb4cedf651f53ef1cb2a15caf5e475a728f3f
+  digest: 4JWl0BjIzj3xmGeGAiuEEGb9xSPjQxnOA0cPTJX7Qkw
+review:
+  thoroughness: high
+  understanding: high
+  rating: strong
+comment: |-
+  I am the author of lmake_lines_of_code.
+  It reads all the *.rs files in a Rust Workspace or Project.
+  It modifies README.md, if it contains special comment-delimiters. 
+  It include the result there.
+  
+  The result markdown is printed to standard output.
+  There can be copy/paste into README.md manually.
+  
+  I think it can be trusted.
+----- SIGN CREV PROOF -----
+NhpJoIdWfQbUEkwuo2OvK-FTYERQEgI1VPX6UNaEWdhk3h-I2DbqBZx8QzcnfGjhzKGkRLjv6Fq7Vw3ZWl9ACg
+----- END CREV PROOF -----
+
