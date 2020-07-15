@@ -28,3 +28,33 @@ comment: |-
 vbzTU0_LZvKsdHnguNZ_bCOrUjlt3-DvFMmBJtL8dh_h1DvZB6vxpkATJYOpN-MXIANLD8Tf35UYa7I8X-w4Aw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2020-07-15T21:48:30.120415600+05:30"
+from:
+  id-type: crev
+  id: 24YKeuThJDNFSlJyxcl5diSZcKcRbh-0zXM0YxTOFJw
+  url: "https://github.com/LucianoBestia/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: lmake_cargo_toml_to_md
+  version: 0.5.4
+  revision: b102e0f6232fc0882ccca0593755a70edf016610
+  digest: WIjg37g5X-PpgTPft8PEzAxJ0SJNTCmNpef_oGUzkxw
+review:
+  thoroughness: high
+  understanding: high
+  rating: strong
+comment: |-
+  I am the author of lmake_cargo_toml_to_md.
+  Includes cargo.toml data into md.
+  It is useful prior to run `cargo doc` to generate the documentation.
+  The code is small and easy to review. It can be trusted.
+  
+  NO: unsafe, FFI, asm!, network-access, build.rs, macro_rules, unmaintained.     
+  YES: file-read: md files, file-write: rs files.
+----- SIGN CREV PROOF -----
+bsubWjvP5VA55T_ExGxEIaHgNdxI51zAa9_g5refGU-b9MAo8pozGSb-e2z-L_2iDu-48uG2fc3ip4VhM7zUBw
+----- END CREV PROOF -----
+
