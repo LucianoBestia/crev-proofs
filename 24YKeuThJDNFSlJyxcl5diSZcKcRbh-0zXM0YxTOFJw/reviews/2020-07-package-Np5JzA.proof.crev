@@ -1,0 +1,30 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2020-07-15T17:09:06.270262400+05:30"
+from:
+  id-type: crev
+  id: 24YKeuThJDNFSlJyxcl5diSZcKcRbh-0zXM0YxTOFJw
+  url: "https://github.com/LucianoBestia/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: lmake_md_to_doc_comments
+  version: 0.5.4
+  revision: a56637c7b2e9918f01032c075dd51872028bc430
+  digest: MSkSVlYfhevF26c3W6JoC_wO-MtH0VAFoH3omydp0bU
+review:
+  thoroughness: high
+  understanding: high
+  rating: strong
+comment: |-
+  I am the author of lmake_md_to_doc_comments.
+  Includes segments of md files into rs files as doc comments for one Rust project.
+  It is useful prior to run `cargo doc` to generate the documentation.
+  The code is small and easy to review. It can be trusted.
+  
+  NO: unsafe, FFI, asm!, network-access, build.rs, macro_rules, unmaintained.     
+  YES: file-read: md files, file-write: rs files.
+----- SIGN CREV PROOF -----
+vbzTU0_LZvKsdHnguNZ_bCOrUjlt3-DvFMmBJtL8dh_h1DvZB6vxpkATJYOpN-MXIANLD8Tf35UYa7I8X-w4Aw
+----- END CREV PROOF -----
+
