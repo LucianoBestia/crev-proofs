@@ -58,3 +58,36 @@ comment: |-
 bsubWjvP5VA55T_ExGxEIaHgNdxI51zAa9_g5refGU-b9MAo8pozGSb-e2z-L_2iDu-48uG2fc3ip4VhM7zUBw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2020-07-27T22:15:41.874960600+05:30"
+from:
+  id-type: crev
+  id: 24YKeuThJDNFSlJyxcl5diSZcKcRbh-0zXM0YxTOFJw
+  url: "https://github.com/LucianoBestia/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: lmake_lines_of_code
+  version: 1.1.5
+  revision: bf135bd60b376ac7b5c5916ffa201a88010c2f7b
+  digest: EKWVm_HBHQ_nHEDl30Anxw6xkg7it1qDo05RIQHo194
+review:
+  thoroughness: high
+  understanding: high
+  rating: strong
+comment: |-
+  I am the author of lmake_lines_of_code.
+  It reads all the *.rs files in a Rust Workspace or Project.
+  The result markdown table and badges is printed to standard output.
+  There can be copy/paste into README.md manually.
+  It includes the badges into README.md, if contains special comment-markers.
+  
+  I think it can be trusted.
+  
+  YES: file-read: all *.rs files, file-write: README.md, executes process "git remote -v"       
+  NO: unsafe, FFI, asm!, build.rs, macro_rules, unmaintained, network-access
+----- SIGN CREV PROOF -----
+n0EqEmlfaZ41D30tRSlHy-RwET7MIUyJkjCko7gHpq0Lq4AigvGdN8HbER5hailHNKqoBOIITq0mTxEGH6EfDA
+----- END CREV PROOF -----
+
